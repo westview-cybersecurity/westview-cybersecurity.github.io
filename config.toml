@@ -16,7 +16,7 @@ publishDir = "docs"
   themeColor = "green"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
+  showMenuItems = 0
 
   # show selector to switch language
   showLanguageSelector = false
@@ -56,6 +56,8 @@ publishDir = "docs"
   # can be overridden in a page's front-matter
   # TocTitle = "Table of Contents" # default
 
+[[params.customCSS]]
+ href = "./static/bigger-width.css"
 
 [params.twitter]
   # set Twitter handles for Twitter cards

@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "C:/Users/Poarthan/Documents/westview-cs-website",
+	"sourceRoot": "C:/Users/Poarthan/Documents/westviewcswebsitenew/westview-cybersecurity.github.io",
 	"sources": [
 		"css/base.scss",
 		"themes/terminal/assets/css/variables.scss",
