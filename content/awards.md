@@ -1,7 +1,7 @@
 ---
 width: true
 layout: default
-title: Westview Cybersecurity Club
+title: Awards & Achievements
 author: ' '
 disableAnchoredHeadings: True
 ---
