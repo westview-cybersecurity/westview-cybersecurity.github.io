@@ -16,7 +16,7 @@ publishDir = "docs"
   themeColor = "green"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 0
+  showMenuItems = 2
 
   # show selector to switch language
   showLanguageSelector = false
@@ -85,9 +85,13 @@ publishDir = "docs"
     [languages.en.params.logo]
       logoText = "Home"
       logoHomeLink = "/home"
-
-#    [languages.en.menu]
-#      [[languages.en.menu.main]]
+    
+    
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+          identifier = "awards"
+          name = "Awards"
+          url = "/awards"
 #        identifier = "about"
 #        name = "About"
 #        url = "/about"
