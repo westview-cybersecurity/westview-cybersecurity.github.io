@@ -27,8 +27,8 @@ Club Instagram: [https://www.instagram.com/whs_cybersecurity/](https://www.insta
 Club Discord: [https://discord.gg/Q9VzrgeGNe](https://discord.gg/Q9VzrgeGNe)
 
 Contacts:\
-Discord: PoarthanArseus#8563\
-Email: arnold.tianyi.yang@gmail.com
+Discord: wartfur\
+Email: 459532@bsd48.org
 
 # State Round Awards for Cyber Patriot Competition:
 
@@ -74,3 +74,56 @@ Email: arnold.tianyi.yang@gmail.com
 # 2021-2022 Westview Cybersecurity Club
 
 ![Westview Cybsercurity Club](/upload/cyberSecClubPhoto.jpg)
+
+# Awards & Achievements
+
+**Most Notable Achievements**
+- CyberPatriot 2x National Finalist
+- CyberPatriot National Finals US/CAN - 3rd Place (2024-2025)
+- CyberPatriot National Finals US/CAN - 4th Place (2023-2024)
+- 4-time CyberPatriot Oregon State Champion Team
+- GeorgeFox HS Programming Contest #1 (Div 1)
+
+**2024-2025**
+- CyberPatriot 17 National Finalist - Finishing in the top 2/2800+ in Semifinals Round
+- CyberPatriot 17 National Finals 🥉3rd Place Podium - 3rd/12 Finalist Teams
+- CyberPatriot 1st Place Oregon State Champion
+- TitanTurtles Club takes the #1, #2, and #3 spot in Oregon for CyberPatriot 3x in a row!
+
+**2023-2024**
+- CyberPatriot XVI National Finalist (12/2800+) - First Oregon Team to Qualify for the National Finals
+- CyberPatriot National Finals 4th Place - First Time experience with RvB Finishing 4th Place out of 12 Finalists
+- CyberPatriot 1st Place Oregon State Champion
+- CyberDiscord Open #4
+- 2024 GeorgeFox HS Programming Contest #1 (Div 1)
+- 2023 picoCTF US HS Division #15
+- TitanTurtles Club takes the #1, #2, and #3 spot in Oregon for CyberPatriot AGAIN!
+
+**2022-2023**
+- CyberPatriot #8 in OS, Rank #18 in the Nation
+- CyberPatriot 1st Place Oregon State Champion
+- TitanTurtles Club takes the #1, #2, and #3 spot in Oregon for CyberPatriot
+
+**2021-2022**
+- CyberPatriot 1st Place Oregon State Champion
+
+
+# Alumni
+
+Kishore Kumar - University: OSU
+
+Anya Li - University: UW
+- CyberPatriot National Finalist
+
+Christopher Hu - University: UMD
+
+Arnold Yang - University: Stanford
+- CyberPatriot National Finalist
+- Founder of the Westview Cybersecurity Club
+
+Kevin Yu - University: UW
+
+Michael Xu - University: GTech
+- CyberPatriot National Finalist
+
+*Please reach out if you're one of our Alumni and want to be featured on the website!*
